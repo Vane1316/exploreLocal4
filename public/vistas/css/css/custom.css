@@ -1,0 +1,16 @@
+/*
+Custom Css
+*/
+.logo-img {
+    height: 60px; /* Ajusta el tamaño según sea necesario */
+    width: auto; /* Mantiene la proporción de la imagen */
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.ml-2 {
+    margin-left: 8px; /* Espacio entre el logo y el texto */
+}
